@@ -3,8 +3,7 @@
   <img src="/Pictures/asc-logo.png" alt="LOGO" width="450" height="450" /><br /><br />
 </p>
 
-ASC Cloud is a dedicated team of cybersecurity experts based in US with a multiyear experience in comprehensive security operations, advanced security training programs, and development of offensive security tooling.
-
+ASC Cloud is a U.S.-based Red Team with extensive experience in offensive security, adversary emulation, security operations, hands-on training, and the development of open-source offensive security tools.
 <br />
 
 
