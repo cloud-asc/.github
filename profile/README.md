@@ -11,6 +11,8 @@ ASC Cloud is a dedicated team of cybersecurity experts based in US with a multiy
 Hall of Fame:
 
 <a href="#"><img src="/Pictures/cissp-logo.png" alt="CISSP" width="100" height="100" /></a>
+<a href="#"><img src="/Pictures/osce3-logo.png" alt="OSCE3" width="100" height="100" /></a>
+<a href="#"><img src="/Pictures/osed-logo-1.png" alt="OSED" width="100" height="100" /></a>
 <a href="#"><img src="/Pictures/oswe-logo.png" alt="OSWE" width="100" height="100" /></a>
 <a href="#"><img src="/Pictures/osep-logo.png" alt="OSEP" width="100" height="100" /></a>
 <a href="#"><img src="/Pictures/oscp-logo.png" alt="OSCP" width="100" height="100" /></a>
